@@ -1,7 +1,10 @@
 - Step 1 : clone existing project from github to local
  
   $git clone https://github.com/aakashd24/Data-Analytics-Road-Map.git
+  
   enter the folder of it
+  
+  $cd [folder name]
   
 - Step 2 : Check the status after add file or changes 
   
